@@ -53,5 +53,7 @@ This project is licensed under the MIT License - By Jani Jesse.
 https://github.com/user-attachments/assets/676e0844-26c2-426d-8dcd-9c853bd199c9
 
 
-![transaction cosmos](https://github.com/user-attachments/assets/25227d98-d29d-4cb4-9804-e16e1ce1ce30)
+![transaction cosmos](https://github.com/user-attachments/assets/25227d98-d29d-4cb4-9804-e16e1ce1ce30) 
+
+https://www.mintscan.io/neutron-testnet/tx/BFC668FC89F51FCBD13B2672F81B5C9107F9D2931F9C6C63B14ECCB4E28696C4?height=22015633
 
